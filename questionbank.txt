@@ -1,0 +1,50 @@
+What command is used to count the number of lines ?
+a.
+b.
+c.wc-l
+d.
+What is the command used to remove files?
+a.
+b.rm
+c.
+d.
+What is the command to remove the directory?
+a.rmdir
+b.
+c.
+d.
+What is the command used to print?
+a.
+b.
+c.echo
+d.
+What is the command used to delete a line in vim editor?
+a.dd
+b.
+c.
+d.
+What command is used to print the current working directory?
+a.
+b.pwd
+c.
+d.
+What is the command to list the files and directories in current working directory?
+a.
+b.
+c.
+d.ls
+What is the method of storing output of a command in a file?
+a.
+b.redirection
+c.
+d.
+What is the method of passing output of a command as a input to another command?
+a.
+b.
+c.
+d.piping
+What operator is used to check the numbers are equal or not?
+a.
+b.
+c.
+d.-eq
